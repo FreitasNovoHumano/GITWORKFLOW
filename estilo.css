@@ -16,7 +16,7 @@ body{
 
 .container{
 	/*width: 900px;*/
-	width: 65.88%;
+	width: 66%;
 	margin: 0 auto;
 }
 
@@ -60,35 +60,6 @@ body{
 .article_single ul li{
 	margin-top: 5px;
 }
-
-/*.form_contact{
-	text-align: center;
-	padding: 40px;
-}
-
-.form_contact label, .form_contact input{
-	width: 700px;
-}
-
-.form_contact label p{
-	margin-top: 20px;
-}
-.form_contact input{
-	padding: 5px;
-	font-size: 0.875em;
-}
-
-.form_contact textarea{
-	width: 700px;
-	height: 60px;
-}
-
-.form_contact .btn{
-	padding: 10px 20px !important;
-	font-weight: 1em;
-	width: auto;
-	margin-top: 10px;
-}*/
 
 .form_contact{
 	color: #f0efe7;
