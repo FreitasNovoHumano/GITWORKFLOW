@@ -1,0 +1,22 @@
+{
+    "name": "vendor/primeiro-projeto",
+    "description": "Description of project PrimeiroProjeto.",
+    "authors": [
+        {
+            "name": "fabio",
+            "email": "ecommercefreitas@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "config": {
+    "vendor-lib": "vendor"
+    },
+    "autoload": {
+    "psr-4": {
+    "Source\\": "sourcece/"
+    }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
